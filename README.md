@@ -1,4 +1,4 @@
 # Bluebox
-Login:
-User: bluebox
-Password: bluebox
+Login:  
+User: bluebox  
+Password: bluebox  
