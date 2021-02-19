@@ -24,7 +24,7 @@ some example configuration
 To set nemask and ip address for linux systems use the following example (Replace eth0 with required network interface).
 ```sudo ifconfig eth0 192.168.137.2 netmask 255.255.255.0 up ``` 
 To set default gateway use the following command 
-```sudo route add default gw <host-pc-IP> <network interface name>``` example ```sudo route add default gw 192.168.137.1```
+```sudo route add default gw <host-pc-IP> <network interface name>``` example ```sudo route add default gw 192.168.137.1 ni2```
 
 ### 3. Configuring Domain Name Server
 
