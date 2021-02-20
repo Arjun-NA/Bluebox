@@ -1,1 +1,1 @@
-/usr/lib/aarch64-linux-gnu/stdlibc++.so.6 | grep GLIBCXX    
+strings /usr/lib/aarch64-linux-gnu/libstdc++.so.6 | grep GLIBCXX
